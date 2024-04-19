@@ -6,8 +6,6 @@
                 "limitSymbolsToIncludedHeaders": true
             },
             "includePath": [
-                "C:/Users/ASUS/catkin_ws/src/TMSTC-Star/include/**",
-                "/opt/ros/melodic/x64/include/**",
                 "${workspaceFolder}/include"
             ],
             "name": "ROS"
