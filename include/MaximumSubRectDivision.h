@@ -83,7 +83,7 @@ public:
 
 	Mat rectDivisionSolver();
 
-	Mat Division::bfsSolver(unsigned char bfsDir);
+	Mat bfsSolver(unsigned char bfsDir);
 
 	Mat dfsWithStackSolver(unsigned char dfsDir);
 
